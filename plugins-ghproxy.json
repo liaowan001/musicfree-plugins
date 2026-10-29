@@ -1,0 +1,35 @@
+{
+    "desc":  "0.1.0",
+    "plugins":  [
+                    {
+                        "name":  "示例·云音乐",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-music-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    },
+                    {
+                        "name":  "示例·音乐电台",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-radio-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    },
+                    {
+                        "name":  "示例·DJ台",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-dj-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    },
+                    {
+                        "name":  "示例·有声书",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-audiobook-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    },
+                    {
+                        "name":  "示例·轻音乐",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-lofi-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    },
+                    {
+                        "name":  "示例·现场Live",
+                        "url":  "https://ghproxy.net/https://raw.githubusercontent.com/liaowan001/musicfree-plugins/main/plugins/sample-live-source.plugin.v1.0.0.js",
+                        "version":  "1.0.0"
+                    }
+                ]
+}
