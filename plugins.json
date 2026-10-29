@@ -1,0 +1,35 @@
+{
+  "desc": "0.1.0",
+  "plugins": [
+    {
+      "name": "示例·云音乐",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-music-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "示例·音乐电台",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-radio-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "示例·DJ台",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-dj-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "示例·有声书",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-audiobook-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "示例·轻音乐",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-lofi-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "示例·现场Live",
+      "url": "https://liaowan001.github.io/musicfree-plugins/plugins/sample-live-source.plugin.v1.0.0.js",
+      "version": "1.0.0"
+    }
+  ]
+}
